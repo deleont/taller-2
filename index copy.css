@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>index</title>
+	<style type="text/css">
+	#contenedor {
+		margin: auto;
+		background-color: #FFFFFF;
+		position: relative;
+		height: 1400px;
+		width: 1000px;
+		}
+		#cuadro1 {
+    position: absolute;
+    height: 350px;
+    width: 1000px;
+    left: 1px;
+	top; 0px;
+  
+		}
+		#cuadro2 {
+    position: absolute;
+    height: 350px;
+    widht: 1000px;
+    left: 1px;
+    top: 360px;
+   
+		}
+		
+		#cuadro3 {
+    position: absolute;
+    height: 350px;
+    widht: 1000px;
+    left: 1px;
+    top: 720px;
+   
+		}
+		#cuadro4 {
+    position: absolute;
+    height: 350px;
+    widht: 333px;
+    left: 50px;
+    top: 1125px;
+   
+		}
+		#cuadro5 {
+    position: absolute;
+    height: 350px;
+    widht: 333px;
+    left: 620px;
+    top: 1125px;
+   
+		}
+		</style>
+</head>
+
+<body>
+	<div id="contenedor">
+		<div id="cuadro1"><img src="../Downloads/cuadro1.png" width="1000" height="350" alt=""/></div>
+		<div id="cuadro2"><img src="../Downloads/Diseño sin título.png" alt="" width="1001" height="293" align="baseline"/></div>
+<div id="cuadro3"><img src="../Downloads/Lorem ipsum dolor sit amet consectetur, adipiscing elit. Phasellus sit amet ligula non nisi vivera venenatis..png" width="1000" height="350" alt=""/></div>
+		<div id="cuadro4"><iframe width="350" height="250" src="https://www.youtube.com/embed/bAfxQedZpPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		<div id="cuadro5"><iframe width="350" height="250" src="https://www.youtube.com/embed/I3kqiV_tWCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+		
+</body>
+</html>
